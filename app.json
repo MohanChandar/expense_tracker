@@ -6,36 +6,8 @@
   "logo": "https://raw.githubusercontent.com/firefly-iii/firefly-iii/master/public/mstile-150x150.png",
   "keywords": [
     "finance",
-    "finances",
-    "manager",
-    "management",
-    "euro",
-    "dollar",
-    "laravel",
-    "money",
-    "currency",
-    "financials",
-    "financial",
     "budgets",
-    "administration",
-    "tool",
-    "tooling",
-    "help",
-    "helper",
-    "assistant",
-    "planning",
-    "organizing",
-    "bills",
-    "personal finance",
-    "budgets",
-    "budgeting",
-    "budgeting tool",
-    "budgeting application",
-    "transactions",
-    "self hosted",
-    "self-hosted",
-    "transfers",
-    "management"
+    "self-hosted"
   ],
   "addons": [
     {
@@ -59,7 +31,7 @@
   "env": {
     "APP_KEY": {
       "description": "This key is used to encrypt your data.",
-      "value": "base64:If1gJN4pyycXTq+WS5TjneDympKuu+8SKvTl6RZnhJg="
+      "value": "base64:If1uMC7pyycMCq+WS5TjayDsmcKuu+9SKvTl6MCnhJg="
     }
   }
 }
